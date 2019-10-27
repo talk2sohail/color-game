@@ -1,0 +1,25 @@
+{
+  "background_color": "#3268bd",
+  "description": "A basic RGB game. Gets you good at colors.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "icon/aven44.png",
+      "sizes": "44x44",
+      "type": "image/png"
+    },
+    {
+      "src": "icon/aven96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "icon/aven144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ],
+  "name": "A Great RGB Game",
+  "short_name": "RGB",
+  "start_url": "/src/index.html"
+}
