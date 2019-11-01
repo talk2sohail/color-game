@@ -4,10 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>Color Game</title>
-  <link rel="stylesheet" type="text/css" href="./main.css" />
+  <link rel="stylesheet" type="text/css" href="./css/main.css" />
   <link rel="manifest" href="./manifest.json">
-  <title>Document</title>
+  <title>Color Game</title>
 </head>
 <body>
     
@@ -18,12 +17,14 @@
         <br />
         Color Game
       </h1>
+     
       <div id="stripe">
         <button id="reset">New Colors</button>
         <span id="message"></span>
         <button id="easyBtn">easy</button>
         <button id="hardBtn" class="selected">hard</button>
       </div>
+      
       <div id="container">
         <div class="square"></div>
         <div class="square"></div>
@@ -31,10 +32,15 @@
         <div class="square"></div>
         <div class="square"></div>
         <div class="square"></div>
+       
+      </div>
+      <div id="mybutton">
+        <button class="promote">Add to Home Screen</button>
       </div>
     
      
-      <script defer type="text/javascript" src="./main.js"></script>
+      <script src="./js/logic.js"></script>
+      <script src="./js/index.js"></script>
     </body>
   
 </body>

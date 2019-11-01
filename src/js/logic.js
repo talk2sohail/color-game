@@ -1,13 +1,5 @@
 // alert("Connected!");
 
-window.onload = function() {
-  if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("sw.js").then(() => {
-      console.log("Service Worker has been registered.");
-    });
-  }
-};
-
 var numSquares = 6;
 var easyFlag = false;
 var hardFlag = false;
