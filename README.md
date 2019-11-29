@@ -21,7 +21,7 @@ There are currently two levels in the game.
 ![](images/first.png)
 
 
-You click on the boxes. If it's wrong, it will disappeared.
+You click on the boxes. If it's wrong, it will disappear.
 
 ![](images/second.png)
 
