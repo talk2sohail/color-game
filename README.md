@@ -11,8 +11,7 @@ As you might have discovered, it is hosted in Google Firebase.
 
 ## Features and Description
 
-I have managed to make it a [PWA](https://developers.google.com/web/progressive-web-apps) which make it easy 
-to be more engaging and it works offline as well!
+I have managed to make it a [PWA](https://developers.google.com/web/progressive-web-apps) which make it easy to install(add to home screen) on your device making it more engaging and it works offline as well!
 
 Some screensots might help you on the way.
 
