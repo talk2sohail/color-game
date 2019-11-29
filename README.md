@@ -3,7 +3,7 @@
 A simple JS game to guess the correct color from the given RGB value.
 In case you wanna play it.
 Follow the link.
-[THE GREAT RGB GAME](rgb-game-1c7c2.firebaseapp.com)
+[THE GREAT RGB GAME](https://rgb-game-1c7c2.firebaseapp.com)
 
 ## Hosting 
 
