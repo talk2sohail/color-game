@@ -19,7 +19,7 @@ easyBtn.addEventListener("click", function() {
   if (!easyFlag) {
     hardBtn.classList.remove("selected");
     easyBtn.classList.add("selected");
-    numSquares = 3;
+    numSquares = 4;
     //color array will have only 3 elements
     color = generateRandomColor(numSquares);
     pickedColor = pickColor();
